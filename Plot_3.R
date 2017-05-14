@@ -4,7 +4,7 @@
 
 ##PLOT 3 STEPS
 
-##1 plot2("household_power_consumption.txt")
+##1 plot3("household_power_consumption.txt")
 ##2 Load in R, assign to  data frame. 
 ##3 Reformat the date column.
 ##4 Subset two days of interest (from power data frame), assign to new data frame ("df").
