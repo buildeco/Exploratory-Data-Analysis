@@ -8,11 +8,16 @@ In this project, I create plots by reproducing a series of plots and use github 
 
 The following link empowers you to view a full description of the data used in this project The UCI Machine Learning Repository
 
-This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
+This assignment uses data from the UC Irvine Machine Learning Repository
 
-## Dataset: Electric power consumption [20Mb]
+A full description of the data used in this project can be found at 
+[The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/), a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
-## Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
+## Dataset:
+Electric power consumption [20mb]
+
+## Description:
+Measurements of electric power comsumption in one household with a one-minute sampling rate over a period of almost 4 years.  Different electrical qualities and some sub-metering values and available.
 
 ## The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
